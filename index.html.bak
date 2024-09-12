@@ -7,7 +7,7 @@
    <!--- Basic Page Needs
    ================================================== -->
    <meta charset="utf-8">
-	<title>Dorian Vabre - Game dev</title>
+	<title>Dorian Vabre - Gameplay programmer</title>
 	<meta name="description" content="">
 	<meta name="author" content="">
 
@@ -109,7 +109,6 @@
                   <h2>Contact Details</h2>
                   <p class="address">
 						   <span>Dorian Vabre</span><br>
-                     <span>212 rue de Bordeaux, apt 8 - Angoulême (16000), France</span><br>
                      <span>dorian.vabre@gmail.com</span>
 					   </p>
 
@@ -204,6 +203,36 @@
          </div>
 
          <div class="nine columns main-col">
+
+			<div class="row item">
+
+               <div class="twelve columns">
+
+                  <h3>Internship - Ubisoft Paris Mobile</h3>
+                  <p class="info">Gameplay Programmer Assistant - Ubisoft Paris Mobile, Saint-Mandé (94160)<span>&bull;</span> <em class="date">March-August 2024</em></p>
+
+                  <p>
+                     A 6-month internship during which I was able to develop various functionalities concerning meta-progression in an unannounced game. I was also able to carry out various debugging, tooling and UI improvement tasks.
+                  </p>
+
+               </div>
+
+            </div> <!-- item end -->
+
+			<div class="row item">
+
+               <div class="twelve columns">
+
+                  <h3>Internship - Paris Good Fashion</h3>
+                  <p class="info">Gameplay Programmer - Remotely <span>&bull;</span> <em class="date">June 2023</em></p>
+
+                  <p>
+                     During this one month internship, I developed a game on GodotEngine to raise awareness of sustainable fashion issues among the 2024 Olympic Games public.
+                  </p>
+
+               </div>
+
+            </div> <!-- item end -->
 
             <div class="row item">
 
@@ -347,6 +376,66 @@
                      </a>
                   </div>
                </div> <!-- item end -->
+
+               <div class="columns portfolio-item">
+                  <div class="item-wrap">
+                     <a href="#modal-07" title="">
+                        <img alt="" src="images/portfolio/didsomebodysaydoughnuts.png">
+                        <div class="overlay">
+                           <div class="portfolio-item-meta">
+                              <h5>Did somebody say doughnuts?</h5>
+                              <p>A 3D 4-players cooperative beat ‘em all made in 3 months in a group of 5.</p>
+                           </div>
+                        </div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
+                  </div>
+               </div> <!-- item end -->
+
+               <div class="columns portfolio-item">
+                  <div class="item-wrap">
+                     <a href="#modal-08" title="">
+                        <img alt="" src="images/portfolio/olympatch.png">
+                        <div class="overlay">
+                           <div class="portfolio-item-meta">
+                              <h5>Olympatch</h5>
+                              <p>A short game about sustainable fashion</p>
+                           </div>
+                        </div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
+                  </div>
+               </div> <!-- item end -->
+
+               <div class="columns portfolio-item">
+                  <div class="item-wrap">
+                     <a href="#modal-09" title="">
+                        <img alt="" src="images/portfolio/crossmoth.png">
+                        <div class="overlay">
+                           <div class="portfolio-item-meta">
+                              <h5>CrossMoth</h5>
+                              <p>A short game played with light sensors, made with Unity during a school project with a focus on accessibility. Team of 5.</p>
+                           </div>
+                        </div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
+                  </div>
+               </div> <!-- item end -->
+			   
+			    <div class="columns portfolio-item">
+                  <div class="item-wrap">
+                     <a href="#modal-10" title="">
+                        <img alt="" src="images/portfolio/runout.png">
+                        <div class="overlay">
+                           <div class="portfolio-item-meta">
+                              <h5>Run Out</h5>
+                              <p>A first-person, single player, survival-horror vertical slice with elements of time manipulation. Made with Unreal/Blueprint in a team of 9.</p>
+                           </div>
+                        </div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
+                  </div>
+               </div> <!-- item end -->
             </div> <!-- portfolio-wrapper end -->
 
          </div> <!-- twelve columns end -->
@@ -356,26 +445,20 @@
 	      --------------------------------------------------------------- -->
 
          <div id="modal-01" class="popup-modal mfp-hide">
-
 		      <img class="scale-with-grid" src="images/portfolio/modals/m-roborally.jpg" alt="" />
-
 		      <div class="description-box">
 			      <h4>Roborally</h4>
 			      <p>This is a Roborally board game I made during my first year at the UIT of Valence. We used Java and Swing for the graphical interface. The game was fully playable using the console, but the UI to select the cards was not finished by the deadline.</p>
                <span class="categories"><i class="fa fa-tag"></i>Group of 2, Java, Swing, Board game</span>
 		      </div>
-
             <div class="link-box">
                <!--<a href="http://www.behance.net" target="_blank">Details</a>-->
 		         <a class="popup-modal-dismiss">Close</a>
             </div>
-
 	      </div><!-- modal-01 End -->
 
          <div id="modal-02" class="popup-modal mfp-hide">
-
 		      <img class="scale-with-grid" src="images/portfolio/modals/m-osm117.jpg" alt="" />
-
 		      <div class="description-box">
 			      <h4>OSM117</h4>
 			      <p>An OpenStreetMap-based JavaFX application that can be used to find the shortest way between streets of a city. Uses real data from OSM API, uses Speechbrain for voice recognition and authentification.</p>
@@ -386,39 +469,30 @@
                <!--<a href="http://www.behance.net" target="_blank">Details</a>-->
 		         <a class="popup-modal-dismiss">Close</a>
             </div>
-
 	      </div><!-- modal-02 End -->
 
          <div id="modal-03" class="popup-modal mfp-hide">
-
 		      <img class="scale-with-grid" src="images/portfolio/modals/m-tintube.jpg" alt="" />
-
 		      <div class="description-box">
 			      <h4>TinTube</h4>
 			      <p>An Android app inspired by Tinder and Youtube. The user can search for a theme, watch videos from Youtube, then swipe if he liked the video or not. A collection of the favorites videos is stored for future uses, where the user can see details about the videos.</p>
                <span class="categories"><i class="fa fa-tag"></i>Group of 2, Android, API</span>
 		      </div>
-
             <div class="link-box">
 		         <a class="popup-modal-dismiss">Close</a>
             </div>
-
 	      </div><!-- modal-03 End -->
 
          <div id="modal-04" class="popup-modal mfp-hide">
-
 		      <!-- <img class="scale-with-grid" src="images/portfolio/modals/m-intothelight.jpg" alt="" /> -->
-
             <iframe style="position: relative; height: 100%; width: 100%;"
                src="https://www.youtube.com/embed/AQBVh6lE9mA">
             </iframe>
-
 		      <div class="description-box">
 			      <h4>For want of a sunset when the sky is gone</h4>
 			      <p>A 4-days project made by a team of 9 students with Unity (credits in the video). Made with Unity, inspired by "Le petit prince". The controller is a rope that the player has to pull to move deeper in the well.</p>
                <span class="categories"><i class="fa fa-tag"></i>Group of 9, Unity, Experience, Alternative controller</span>
 		      </div>
-
             <div class="link-box">
 		         <a class="popup-modal-dismiss">Close</a>
             </div>
@@ -426,38 +500,84 @@
 	      </div><!-- modal-04 End -->
 
          <div id="modal-05" class="popup-modal mfp-hide">
-
 		      <img class="scale-with-grid" src="images/portfolio/modals/m-enjminsteamroller.png" alt="" />
-
 		      <div class="description-box">
 			      <h4>The deadly cursed Enjmin Steamroller</h4>
 			      <p>A short Playdate videogame made with Lua during a 2-days Game Jam. Authors and more information on itch.io below.</p>
                <span class="categories"><i class="fa fa-tag"></i>Group of 4, Lua, Playdate, Game jam</span>
 		      </div>
-
             <div class="link-box">
                <a href="https://railnof.itch.io/the-deadly-cursed-enjmin-steamroller" target="_blank">Itch.io page</a>
 		         <a class="popup-modal-dismiss">Close</a>
             </div>
-
 	      </div><!-- modal-05 End -->
 
          <div id="modal-06" class="popup-modal mfp-hide">
-
             <img class="scale-with-grid" src="images/portfolio/modals/m-nitrochondrie.png" alt="" />
-
             <div class="description-box">
                <h4>Nitrochondrie</h4>
                <p>A short racing gaming made in 4-days about bacterias that is played with a controller.</p>
                <span class="categories"><i class="fa fa-tag"></i>Group of 9, Unity, Racing game</span>
             </div>
-
             <div class="link-box">
                <a href="https://nanda-sbr.itch.io/nitrochondrie" target="_blank">Itch.io page</a>
                <a class="popup-modal-dismiss">Close</a>
             </div>
-
          </div><!-- modal-06 End -->
+
+         <div id="modal-07" class="popup-modal mfp-hide">
+            <img class="scale-with-grid" src="images/portfolio/modals/m-didsomebodysaydoughnuts.png" alt="" />
+            <div class="description-box">
+               <h4>Did somebody say doughnuts?</h4>
+               <p>A colorful, cooperative beat-them-all for up to 4 players. Made with Unity in teams of 5 over 3 months.</p>
+               <span class="categories"><i class="fa fa-tag"></i>Group of 5, Unity, Beat-them-all</span>
+            </div>
+            <div class="link-box">
+               <a href="https://dorian-vabre.itch.io/did-somebody-say-doughnuts" target="_blank">Itch.io page</a>
+               <a class="popup-modal-dismiss">Close</a>
+            </div>
+         </div><!-- modal-06 End -->
+
+         <div id="modal-08" class="popup-modal mfp-hide">
+            <!-- <img class="scale-with-grid" src="images/portfolio/modals/m-intothelight.jpg" alt="" /> -->
+            <iframe style="position: relative; height: 100%; width: 100%;"
+               src="https://www.youtube.com/embed/t2hSLLSGmEA?si=OmBMMgUaPzWfbSP7">
+            </iframe>
+            <div class="description-box">
+               <h4>Olympatch</h4>
+               <p>A short game about sustainable fashion made during an internship for the Paris Good Fashion association. Made in a team of 6 using Godot.</p>
+               <span class="categories"><i class="fa fa-tag"></i>Group of 6, Godot Engine, Sustainable fashion</span>
+            </div>
+            <div class="link-box">
+               <a class="popup-modal-dismiss">Close</a>
+            </div>
+         </div><!-- modal-08 End -->
+
+         <div id="modal-09" class="popup-modal mfp-hide">
+            <img class="scale-with-grid" src="images/portfolio/modals/m-crossmoth.png" alt="" />
+            <div class="description-box">
+               <h4>Crossmoth</h4>
+               <p>A short game played with light sensors, made with Unity during a school project with a focus on accessibility. Team of 5.</p>
+               <span class="categories"><i class="fa fa-tag"></i>Group of 5, Unity, Accessibility</span>
+            </div>
+            <div class="link-box">
+               <a href="https://nanda-sbr.itch.io/crossmoth" target="_blank">Itch.io page</a>
+               <a class="popup-modal-dismiss">Close</a>
+            </div>
+         </div><!-- modal-09 End -->
+		 
+		<div id="modal-10" class="popup-modal mfp-hide">
+            <img class="scale-with-grid" src="images/portfolio/modals/m-runout.png" alt="" />
+            <div class="description-box">
+               <h4>Run Out</h4>
+               <p>A first-person, single player, survival-horror vertical slice with elements of time manipulation. Made with Unreal/Blueprint in a team of 9.</p>
+               <span class="categories"><i class="fa fa-tag"></i>Group of 9, Unreal Engine, Blueprint, Horror</span>
+            </div>
+            <div class="link-box">
+               <a href="https://nanda-sbr.itch.io/crossmoth" target="_blank">Itch.io page</a>
+               <a class="popup-modal-dismiss">Close</a>
+            </div>
+         </div><!-- modal-10 End -->
 
       </div> <!-- row End -->
 
@@ -481,8 +601,8 @@
                   <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
                   <li><a href="#"><i class="fa fa-skype"></i></a></li>
                -->
-               <li><a href="https://leaping.itch.io/"><i class="fa-solid fa-gamepad-modern"></i></a></li>
-               <li><a href="https://linktr.ee/dorianvabre"><i class="fa-solid fa-link"></i></a></li>
+               <li><a href="https://leaping.itch.io/"><i class="fa fa-gamepad-modern"></i></a></li>
+               <li><a href="https://linktr.ee/dorianvabre/"><i class="fa fa-link"></i></a></li>
                <li><a href="https://www.linkedin.com/in/dorian-vabre/"><i class="fa fa-linkedin"></i></a></li>
             </ul>
 
